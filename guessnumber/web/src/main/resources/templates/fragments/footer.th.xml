@@ -1,5 +1,0 @@
-<thlogic>
-       <attr sel="#footerid"
-          th:fragment="footFragment"/>
-       <attr sel="#created-by" th:text="|#{game.createdBy} rocking |"/>
-</thlogic>
